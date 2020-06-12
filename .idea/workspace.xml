@@ -26,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/blog/comments/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="206">
-              <caret line="19" column="57" lean-forward="true" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
+              <caret line="32" column="33" lean-forward="true" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -34,8 +34,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/posts/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="23" column="48" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="48" />
+            <state relative-caret-position="316">
+              <caret line="33" column="3" lean-forward="true" selection-start-line="31" selection-end-line="33" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -172,12 +172,12 @@
       <option name="presentableId" value="Default" />
       <updated>1591960100788</updated>
       <workItem from="1591960102759" duration="3014000" />
-      <workItem from="1591963175977" duration="11393000" />
+      <workItem from="1591963175977" duration="11806000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14407000" />
+    <option name="totallyTimeSpent" value="14820000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -352,15 +352,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/posts/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="23" column="48" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="48" />
+        <state relative-caret-position="316">
+          <caret line="33" column="3" lean-forward="true" selection-start-line="31" selection-end-line="33" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/comments/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
-          <caret line="19" column="57" lean-forward="true" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
+          <caret line="32" column="33" lean-forward="true" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
         </state>
       </provider>
     </entry>
