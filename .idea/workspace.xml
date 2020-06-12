@@ -31,7 +31,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/query/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
@@ -43,8 +43,17 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/moderation/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+            <state relative-caret-position="382">
+              <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/event-bus/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -75,7 +84,6 @@
         <option value="$PROJECT_DIR$/blog/client/src/CommentCreate.js" />
         <option value="$PROJECT_DIR$/blog/events/.gitignore" />
         <option value="$PROJECT_DIR$/blog/events/index.js" />
-        <option value="$PROJECT_DIR$/blog/event-bus/index.js" />
         <option value="$PROJECT_DIR$/blog/event-bus/package.json" />
         <option value="$PROJECT_DIR$/blog/posts/index.js" />
         <option value="$PROJECT_DIR$/blog/query/package.json" />
@@ -84,9 +92,10 @@
         <option value="$PROJECT_DIR$/blog/client/src/CommentList.js" />
         <option value="$PROJECT_DIR$/blog/moderation/.gitignore" />
         <option value="$PROJECT_DIR$/blog/moderation/package.json" />
-        <option value="$PROJECT_DIR$/blog/moderation/index.js" />
         <option value="$PROJECT_DIR$/blog/comments/index.js" />
         <option value="$PROJECT_DIR$/blog/query/index.js" />
+        <option value="$PROJECT_DIR$/blog/moderation/index.js" />
+        <option value="$PROJECT_DIR$/blog/event-bus/index.js" />
       </list>
     </option>
   </component>
@@ -148,6 +157,12 @@
               <item name="Microservices_node_react" type="b2602c69:ProjectViewProjectNode" />
               <item name="Microservices_node_react" type="462c0819:PsiDirectoryNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="event-bus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Microservices_node_react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Microservices_node_react" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
               <item name="moderation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -194,18 +209,18 @@
       <option name="presentableId" value="Default" />
       <updated>1591960100788</updated>
       <workItem from="1591960102759" duration="3014000" />
-      <workItem from="1591963175977" duration="17018000" />
+      <workItem from="1591963175977" duration="17839000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20032000" />
+    <option name="totallyTimeSpent" value="20853000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24968314" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24968314" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="DB Browser" order="2" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -214,7 +229,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3293011" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3293011" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -359,13 +374,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/event-bus/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/client/src/PostList.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
@@ -404,13 +412,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/moderation/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/comments/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="404">
@@ -422,6 +423,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/moderation/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/event-bus/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
         </state>
       </provider>
     </entry>
