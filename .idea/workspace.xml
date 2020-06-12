@@ -22,32 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PostList.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/client/src/PostList.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
-              <folding>
-                <element signature="e#0#51#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CommentList.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/client/src/CommentList.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blog/query/index.js">
+        <entry file="file://$PROJECT_DIR$/blog/moderation/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="242">
+              <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -87,6 +66,9 @@
         <option value="$PROJECT_DIR$/blog/client/src/PostList.js" />
         <option value="$PROJECT_DIR$/blog/client/src/CommentList.js" />
         <option value="$PROJECT_DIR$/blog/query/index.js" />
+        <option value="$PROJECT_DIR$/blog/moderation/.gitignore" />
+        <option value="$PROJECT_DIR$/blog/moderation/package.json" />
+        <option value="$PROJECT_DIR$/blog/moderation/index.js" />
       </list>
     </option>
   </component>
@@ -100,6 +82,7 @@
     <handled-path value="$PROJECT_DIR$/blog/client/node_modules" />
     <handled-path value="$PROJECT_DIR$/blog/comments/node_modules" />
     <handled-path value="$PROJECT_DIR$/blog/event-bus/node_modules" />
+    <handled-path value="$PROJECT_DIR$/blog/moderation/node_modules" />
     <handled-path value="$PROJECT_DIR$/blog/posts/node_modules" />
     <handled-path value="$PROJECT_DIR$/blog/query/node_modules" />
   </component>
@@ -108,6 +91,7 @@
       <path value="$PROJECT_DIR$/blog/client/package.json" />
       <path value="$PROJECT_DIR$/blog/comments/package.json" />
       <path value="$PROJECT_DIR$/blog/event-bus/package.json" />
+      <path value="$PROJECT_DIR$/blog/moderation/package.json" />
       <path value="$PROJECT_DIR$/blog/posts/package.json" />
       <path value="$PROJECT_DIR$/blog/query/package.json" />
     </packageJsonPaths>
@@ -140,14 +124,7 @@
               <item name="Microservices_node_react" type="b2602c69:ProjectViewProjectNode" />
               <item name="Microservices_node_react" type="462c0819:PsiDirectoryNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Microservices_node_react" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Microservices_node_react" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="moderation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Microservices_node_react" type="b2602c69:ProjectViewProjectNode" />
@@ -193,12 +170,12 @@
       <option name="presentableId" value="Default" />
       <updated>1591960100788</updated>
       <workItem from="1591960102759" duration="3014000" />
-      <workItem from="1591963175977" duration="15043000" />
+      <workItem from="1591963175977" duration="16437000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18057000" />
+    <option name="totallyTimeSpent" value="19451000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -351,13 +328,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/posts/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/query/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -381,11 +351,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/client/src/PostList.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
+        <state relative-caret-position="528">
           <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
           <folding>
             <element signature="e#0#51#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/posts/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/query/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -396,10 +380,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/query/index.js">
+    <entry file="file://$PROJECT_DIR$/blog/moderation/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/moderation/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/moderation/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
         </state>
       </provider>
     </entry>
