@@ -1,6 +1,6 @@
 const express = require('express');
 const bodyParser = require('body-parser');
-const cors =require('cors');
+const cors = require('cors');
 
 const app = express();
 app.use(bodyParser.json());
@@ -25,7 +25,7 @@ app.post('/events', (req, res) => {
     const post = posts[postId];
     post.comments.push({ id, content });
   }
-  console.log(posts);
+
   res.send({});
 
 });
