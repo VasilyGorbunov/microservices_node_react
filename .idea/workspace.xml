@@ -22,38 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/comments/index.js">
+      <file leaf-file-name="CommentList.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/client/src/CommentList.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="45" column="7" lean-forward="true" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/query/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blog/moderation/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/event-bus/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+            <state relative-caret-position="198">
+              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -89,13 +62,13 @@
         <option value="$PROJECT_DIR$/blog/query/package.json" />
         <option value="$PROJECT_DIR$/blog/query/.gitignore" />
         <option value="$PROJECT_DIR$/blog/client/src/PostList.js" />
-        <option value="$PROJECT_DIR$/blog/client/src/CommentList.js" />
         <option value="$PROJECT_DIR$/blog/moderation/.gitignore" />
         <option value="$PROJECT_DIR$/blog/moderation/package.json" />
         <option value="$PROJECT_DIR$/blog/event-bus/index.js" />
         <option value="$PROJECT_DIR$/blog/query/index.js" />
         <option value="$PROJECT_DIR$/blog/comments/index.js" />
         <option value="$PROJECT_DIR$/blog/moderation/index.js" />
+        <option value="$PROJECT_DIR$/blog/client/src/CommentList.js" />
       </list>
     </option>
   </component>
@@ -151,25 +124,14 @@
               <item name="Microservices_node_react" type="b2602c69:ProjectViewProjectNode" />
               <item name="Microservices_node_react" type="462c0819:PsiDirectoryNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="comments" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Microservices_node_react" type="b2602c69:ProjectViewProjectNode" />
               <item name="Microservices_node_react" type="462c0819:PsiDirectoryNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="event-bus" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Microservices_node_react" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Microservices_node_react" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="moderation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Microservices_node_react" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Microservices_node_react" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="query" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -209,18 +171,18 @@
       <option name="presentableId" value="Default" />
       <updated>1591960100788</updated>
       <workItem from="1591960102759" duration="3014000" />
-      <workItem from="1591963175977" duration="20377000" />
+      <workItem from="1591963175977" duration="21573000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23391000" />
+    <option name="totallyTimeSpent" value="24587000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24968314" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24968314" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="DB Browser" order="2" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -229,7 +191,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3293011" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3293011" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -391,13 +353,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/client/src/CommentList.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/moderation/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -435,8 +390,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/moderation/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        <state relative-caret-position="316">
+          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/client/src/CommentList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
         </state>
       </provider>
     </entry>
